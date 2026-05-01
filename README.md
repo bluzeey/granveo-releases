@@ -60,6 +60,13 @@ Examples:
 
 **Note:** macOS may warn about an unidentified developer. Right-click the app and select "Open" to proceed.
 
+**Troubleshooting "App is damaged" error:**
+If macOS shows "Granveo is damaged and can't be opened" (common for unsigned apps), run this in Terminal:
+```bash
+xattr -dr com.apple.quarantine "/Applications/Granveo.app"
+```
+Then open Granveo again.
+
 ### Windows
 1. Download the `.exe` installer
 2. Run the installer
