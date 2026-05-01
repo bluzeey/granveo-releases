@@ -37,18 +37,12 @@ Examples:
 
 ### macOS
 - macOS 11.0 (Big Sur) or later
-- 4GB RAM minimum, 8GB recommended
-- 200MB free disk space
 
 ### Windows
 - Windows 10 (version 1903) or later / Windows 11
-- 4GB RAM minimum, 8GB recommended
-- 200MB free disk space
 
 ### Linux
 - Ubuntu 20.04+, Fedora 34+, or equivalent
-- 4GB RAM minimum, 8GB recommended
-- 200MB free disk space
 
 ## Installation
 
@@ -134,7 +128,7 @@ To publish a new release:
 
 For issues, feature requests, or questions:
 - Visit: https://granveo.com
-- Email: support@granveo.com
+- Email: sahil@granveo.com
 
 ## License
 
